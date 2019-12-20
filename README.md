@@ -1,3 +1,8 @@
+This R package was created to provide a set of tools for those working in Statistical Disclosure Control
+The functions will help the user keep track of tables created from a single dataset and create risk profiles for each table
+with regards to the disclosure vector of table differencing.
+The tool is designed to be used from within an R project, where the data logged is kept across sessions in the .RDATA file.
+
 User Functions
 
 init_project()
